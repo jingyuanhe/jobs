@@ -15,11 +15,6 @@
              <img src="assets/github-brands.svg" width="18px">
              <a href="https://github.com/jingyuanhe">jingyuanhe</a>
          </span>
-         ·
-          <span>
-             <img src="assets/jianshu.svg" width="18px">
-             <a href="https://www.jianshu.com/u/690c88cddf9c">景元合</a>
-         </span>
      </div>
  </center>
 
@@ -44,17 +39,14 @@
    ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 1. 精通 html、css 布局，熟练掌握移动端、web 端网站开发
-2. 熟练掌握 JavaScript，ES6-ES10 特性 
-3. 熟练掌握 React、Vue 等前端框架及 redux 等状态管理库 
-4. 熟练掌握小程序开发
-5. 熟练掌握 H5 和原生通过 JS_bridge 通信流程
-6. 熟练掌握 AMD、CommonJS、ES6 等模块化规范
-7. 熟练掌握前端自动化构建工具，如 webpack、gulp
-8. 有reactNative开发经验
-9. 掌握koa2基本开发，有项目开发经验
-10. 做事踏实、责任心强、善于简书更新技术文章
+2. 熟练掌握 JavaScript，ES6-ES10 特性，熟悉TypeScript 
+3. 精通Vue，了解其源码，熟练掌握uniapp，React、Element 等前端框架
+4. 熟练掌握微信小程序、百度小程序开发
+5. 熟练掌握SCSS等css预处理器
+6. 熟练掌握前端自动化构建工具，如 webpack、gulp
+7. 了解node相关知识，使用koa开发过小型服务器
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
-- **圆通小程序**
+- **圆通速递小程序**
   a) **背景**：
   i.之前小程序功能较少，不能满足现有需求
   b)**技术栈**:
@@ -96,13 +88,14 @@
     i. 项目的搭建以及组件的开发
     ii. 带领android、ios同事开发微信小程序
     iii. 后期项目的迭代以及优化
-- **简书项目**
+- **PC后台报表**
 
   a) **背景：**
-    i.利用简书接口，使用react开发首页，列表，详情，登录页面，学习react开发
+    i.通过使用Element+webpack+vue全家桶开发后台散单监控报表
   b) **技术栈：**
-    i. 项目采用react全家桶
-    ii. 分页、组件开发
+    i. 使用Element+vue全家桶开发
+    ii. 手动配置vue.config.js
+    iii. 使用路由拦截器判断用户权限，跳转不同页面
   c) **职责：**
     i. 项目的搭建以及组件的开发
     ii. 所有页面的开发
